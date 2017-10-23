@@ -1,0 +1,35 @@
+.header-flat-details {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  padding: 30px;
+  padding-left: 0;
+}
+.header-flat-owner {
+  padding: 20px;
+}
+.header-flat-name{
+  box-sizing: border-box;
+}
+.header-flat {
+  border: 1px solid #dce0e0;
+  box-sizing: border-box;
+  background-color: white;
+    form {
+    margin: 20px 0;
+    margin-right: 0;
+    background: #F4F4F4;
+    padding: 15px;
+    border-radius: 3px;
+  }
+    h1 {
+    font-size: 18px;
+    margin-top: 0;
+  }
+    p {
+    font-weight: normal;
+    font-size: 14px;
+    color: #777777;
+  }
+}
+
